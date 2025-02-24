@@ -1,0 +1,1 @@
+This repository demonstrates a common C++ error: division by zero. The `bug.cpp` file contains the erroneous code, which results in undefined behavior. The `bugSolution.cpp` file provides a corrected version that handles potential division by zero scenarios.
